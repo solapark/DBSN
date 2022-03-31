@@ -7,34 +7,34 @@ from . import imlib
 
 rootlist = {
     'bsd68': [
-        './datasets/bsd68',
+        '/home/cdsem_iqe/dataset/BSD68',
     ],
     'set12': [
-        '/home/xhwu/denoising/datasets/set12',
+        '/home/cdsem_iqe/dataset/SET12',
     ],    
     'cbsd68': [
-        './datasets/CBSD68',
+        'home/cdsem_iqe/dataset/CBSD68',
     ],
     'bsd500': [
-        '/home/xhwu/denoising/datasets/BSD500',
+        '/home/cdsem_iqe/dataset/BSD500',
     ],
     'set14': [
-        '/home/xhwu/denoising/datasets/SET14',
+        '/home/cdsem_iqe/dataset/SET14',
     ],  
     'kodak24': [
-        '/home/xhwu/denoising/datasets/KODAK24'
+        '/home/cdsem_iqe/dataset/KODAK24'
     ], 
     'mcmaster': [
-        '/home/xhwu/denoising/datasets/McMaster'
+        '/home/cdsem_iqe/dataset/McMaster'
     ], 
     'wed4744': [
-        '/home/xhwu/denoising/datasets/WED4744'
+        '/home/cdsem_iqe/dataset/WED4744'
     ],
     'div2k': [
-        '/home/xhwu/denoising/datasets/DIV2K_train_HR'
+        '/home/cdsem_iqe/dataset/DIV2K/DIV2K_train_HR'
     ],
     'imagenet_val': [
-        '/home/xhwu/denoising/datasets/imagenet_val_filter'
+        '/home/cdsem_iqe/dataset/imagenet_val_gray'
     ],
 }
 
